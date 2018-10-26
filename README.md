@@ -12,7 +12,7 @@ Example of running this command
 `docker run -ti -v ~/.m2:/home/user/.m2 -v /home/user/che-ide-server-extension/:/projects eclipse/che-dev:nightly sh -c "mvn clean install"`
 
 Note, that building the module with GWT compilation may fail, if there would not be enough memory.
-Make sure that your Docker container can use at least 3GB of RAM.
+**Make sure that your Docker container can use at least 3GB of RAM.**
 
 # Run
 
