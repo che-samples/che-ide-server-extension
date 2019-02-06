@@ -35,7 +35,7 @@
         <tag>HEAD</tag>
     </scm>
     <properties>
-        <che.version>6.18.0-SNAPSHOT</che.version>
+        <che.version>6.18.0</che.version>
     </properties>
     <dependencyManagement>
         <dependencies>
